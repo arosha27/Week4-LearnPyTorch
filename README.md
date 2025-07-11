@@ -146,5 +146,6 @@ Open any `.ipynb` file using Jupyter Notebook or Google Colab.
 
 ## 📬 Contact
 
-Created with ❤️ by **Arosha Amin**
+Created with ❤️ by me **Arosha Amin**. 
+
 Feel free to raise issues or improvements via pull requests!
